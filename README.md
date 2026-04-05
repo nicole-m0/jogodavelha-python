@@ -1,6 +1,6 @@
 # 🎮 Jogo da Velha em Python
-Meu Hackathon 01
-Desafio 02
+* Meu Hackathon 01
+* Desafio 02
 
 ## 📌 Descrição
 
