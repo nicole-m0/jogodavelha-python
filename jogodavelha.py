@@ -1,7 +1,7 @@
 # mudando algumas cores do código com a biblioteca colorama
 from colorama import Fore
 
-# testando opção de reiniciar o jogo
+# opção de reiniciar o jogo
 def reiniciar():
     while True:
         opcao = input(Fore.YELLOW+ "\nDeseja jogar novamente? (y/n): ").lower()
@@ -82,12 +82,12 @@ while True:
         linha = int(input(Fore.CYAN + "Digite a linha escolhida: "))
         coluna = int(input(Fore.CYAN + "Digite a coluna escolhida: "))
 
-     # testando impedir entrada inválida:
+     # impede entrada inválida:
         if linha not in [0, 1, 2] or coluna not in [0, 1, 2]:
             print("Ops,opção errada... tente novamente 0,1 ou 2 por favor!")
             continue
 
-    # testando impedir jogada em posição ocupada:
+    # impede jogada em posição ocupada:
         if tabuleiro [linha][coluna] != " ":
             print(Fore.LIGHTRED_EX+ "Essa posição já está ocupada...tente outra por favor!")
             continue
