@@ -77,4 +77,4 @@ Devido a conflitos de horário, o desenvolvimento foi majoritariamente individua
 
 ## 💬 Considerações finais
 
-Mesmo com o tempo limitado, consegui evoluir um pouco na lógica através dos meus erros e anotações, além da análise de outros códigos de jogo da velha em python que achei no google e pela implementação de melhorias que consegui. Consegui também reduzir a dependência de IA e desenvolver mais autonomia com esse projeto.
+Mesmo com o tempo limitado, consegui evoluir um pouco na lógica através dos meus erros e anotações, além da análise de outros códigos de jogo da velha em python que achei no google e pela implementação das melhorias. Consegui também reduzir a dependência de IA e desenvolver mais autonomia com esse projeto, o que me deixou bastante satisfeita🥰.
