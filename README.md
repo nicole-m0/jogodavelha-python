@@ -8,7 +8,6 @@ Jogo da velha desenvolvido em Python para execução no terminal, com foco na pr
 <div align="left"><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" width="40">
 </div>
 
 ---
